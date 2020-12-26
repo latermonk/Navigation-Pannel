@@ -1,5 +1,33 @@
 #  00. News
 
+
+**下载视频和字幕**
+
+```
+youtube-dl  --all-subs       -f http-5192  https://www.cbsnews.com/video/122420-cbs-evening-news/ 
+```
+
+
+**查看视频格式**
+```
+youtube-dl -F    https://www.cbsnews.com/video/121320-cbs-weekend-news/
+```
+**查看字幕**
+```
+youtube-dl --list-subs   https://www.cbsnews.com/video/121320-cbs-weekend-news/
+```
+**字幕相关的命令**
+```
+--write-sub                      Write subtitle file
+--write-auto-sub                 Write automatic subtitle file (YouTube only)
+--all-subs                       Download all the available subtitles of the video
+--list-subs                      List all available subtitles for the video
+--sub-format FORMAT              Subtitle format, accepts formats preference, for example: "srt" or "ass/srt/best"
+--sub-lang LANGS                 Languages of the subtitles to download (optional) separated by commas, use IETF language tags like 'en,pt'
+```
+
+
+
 ## CBS evening news
 https://www.cbsnews.com/evening-news/full-episodes/    
 
