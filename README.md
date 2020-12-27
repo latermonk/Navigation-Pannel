@@ -4,17 +4,17 @@
 **下载视频和字幕**
 
 ```
-youtube-dl  --all-subs       -f http-5192  https://www.cbsnews.com/video/122420-cbs-evening-news/ 
+youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
 ```
 
 
 **查看视频格式**
 ```
-youtube-dl -F    https://www.cbsnews.com/video/121320-cbs-weekend-news/
+youtube-dl -F    /bs-weekend-news/
 ```
 **查看字幕**
 ```
-youtube-dl --list-subs   https://www.cbsnews.com/video/121320-cbs-weekend-news/
+youtube-dl --list-subs   /cbs-weekend-news/
 ```
 **字幕相关的命令**
 ```
