@@ -113,24 +113,6 @@ https://magazinelib.com/
 https://freemagazinepdf.com/    
 
 
-
-
-#  #   #   M3U8 Downloader
-
----
-
-
-https://www.52pojie.cn/forum.php?mod=viewthread&tid=1105929
-
-----
-
-#  资源网站
-
-https://shikey.com/   
-
-
-
-
 -----
 
 # search  
@@ -145,19 +127,17 @@ https://www.dashengpan.com/
 https://www.baidu.com/s?wd=site%3A+52pojie.cn&rsv_spt=1&rsv_iqid=0x925683e100029c03&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=&tn=baiduhome_pg&ch=&rsv_enter=0&rsv_dl=ib&inputT=6377
 
 
-# 晓可soso
-https://www.xiaokesoso.com
-
-
-
 
 --------
 
 ##  云盘精灵   
 https://www.yunpanjingling.com/
 
+# 晓可soso
+https://www.xiaokesoso.com
 
-
+#  资源网站
+https://shikey.com/   
 
 ----
 
@@ -169,11 +149,8 @@ https://adzhp.cn
 ##  龙轩导航  
 https://ilxdh.com/
 
-
 ## 云盘恶魔   
 https://pan.09l.me    
-
-
 
 ##  破解软件   
 
