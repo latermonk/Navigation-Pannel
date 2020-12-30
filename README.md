@@ -9,8 +9,14 @@ youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
 
 
 **WEB UI  Docker**
+
+https://github.com/manbearwiz/youtube-dl-server  
+
 ```
-https://github.com/manbearwiz/youtube-dl-server
+
+docker run -d --net="host" --name youtube-dl -v /root/Docker:/youtube-dl kmb32123/youtube-dl-server
+
+-v   本地目录:Docker内目录   
 
 ```
 
