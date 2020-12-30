@@ -17,6 +17,10 @@ docker run -d --net="host" --name youtube-dl -v /root/Docker:/youtube-dl kmb3212
 
 说明：  -v   本地目录:Docker内目录        
 
+
+打开  WEB页面：  http://10.252.x.x:8080/youtube-dl           
+
+
 ```
 
 
