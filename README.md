@@ -8,6 +8,14 @@ youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
 ```
 
 
+**WEB UI  Docker**
+```
+https://github.com/manbearwiz/youtube-dl-server
+
+```
+
+
+
 **查看视频格式**
 ```
 youtube-dl -F    /bs-weekend-news/
