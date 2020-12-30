@@ -1,11 +1,7 @@
 #  00. News
 
 
-**下载视频和字幕**
 
-```
-youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
-```
 
 
 **WEB UI  Docker**
@@ -14,11 +10,23 @@ https://github.com/manbearwiz/youtube-dl-server
 
 ```
 
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl      
+sudo chmod a+rx /usr/local/bin/youtube-dl        
+
 docker run -d --net="host" --name youtube-dl -v /root/Docker:/youtube-dl kmb32123/youtube-dl-server         
 
 说明：  -v   本地目录:Docker内目录        
 
 ```
+
+
+
+**下载视频和字幕**
+
+```
+youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
+```
+
 
 
 
