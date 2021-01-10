@@ -31,6 +31,12 @@ docker run -d --net="host" --name youtube-dl -v /root/Docker:/youtube-dl kmb3212
 youtube-dl  --all-subs       -f http-5192   /cbs-evening-news/
 ```
 
+*字幕转换*
+```
+ffmpeg -i source.en.vtt target.en.srt
+
+```
+
 
 
 
