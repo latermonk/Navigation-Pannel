@@ -8,6 +8,10 @@ https://www.cbsnews.com/latest/evening-news/full-episodes/
 
 ##  NBC nightly news
 
+https://www.youtube.com/results?search_query=NBC+Nightly+News+Broadcast+(Full)+
+
+
+
 https://www.youtube.com/watch?v=98msucYd-S0&list=PL0tDb4jw6kPymVj5xNNha5PezudD5Qw9L
 
 
