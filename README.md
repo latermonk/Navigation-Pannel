@@ -1,5 +1,10 @@
 #  01. News
 
+# dw news
+
+https://www.dw.com/en/schedule-and-reception/s-4757
+
+
 ## CBS evening news
 https://www.cbsnews.com/evening-news/full-episodes/    
 
