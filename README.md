@@ -1,3 +1,9 @@
+# 00. techcheck
+https://www.cnbc.com/techcheck/briefings/     
+
+
+---
+
 #  01. News
 
 # dw news
