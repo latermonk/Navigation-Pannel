@@ -1,3 +1,11 @@
+# Magazine download
+##  free mag
+https://freemagazines.top/    
+
+
+
+
+
 # key word
 
 ```
