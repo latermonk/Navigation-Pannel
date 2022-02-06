@@ -1,6 +1,8 @@
 # Magazine download
 ##  free mag
-https://freemagazines.top/    
+https://freemagazines.top/ 
+
+https://freemagazine.cc/   
 
 
 https://www.ebooksyard.com/   
