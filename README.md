@@ -1,3 +1,14 @@
+#  Career
+
+https://www.v2ex.com/go/jobs
+
+https://github.com/ruanyf/weekly/issues/2188
+
+
+---
+
+
+
 # Magazine download
 ##  free mag
 https://freemagazines.top/ 
