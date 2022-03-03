@@ -43,8 +43,10 @@ https://www.cnbc.com/techcheck/briefings/
 
 # dw news
 
+
 https://www.dw.com/en/schedule-and-reception/s-4757
 
+https://www.youtube.com/watch?v=V9KZGs1MtP4    
 
 ## CBS evening news
 https://www.cbsnews.com/evening-news/full-episodes/    
