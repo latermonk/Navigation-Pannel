@@ -43,7 +43,11 @@ https://www.cnbc.com/techcheck/briefings/
 
 # dw news
 
+## live TV 
+https://www.dw.com/en/live-tv/s-100825   
 
+
+##  Programs
 https://www.dw.com/en/schedule-and-reception/s-4757
 
 https://www.youtube.com/watch?v=V9KZGs1MtP4    
