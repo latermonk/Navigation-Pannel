@@ -43,6 +43,17 @@ https://www.cnbc.com/techcheck/briefings/
 
 # dw news
 
+
+
+#    made-in-germany  --   Your Business Magazine
+
+
+https://www.dw.com/en/made-in-germany/s-3066      
+
+https://www.dw.com/en/all-media-content/s-100826?type=18&programs=220077    
+
+
+
 ## live TV 
 https://www.dw.com/en/live-tv/s-100825   
 
