@@ -1,3 +1,6 @@
+https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus
+
+
 #  DW
 
 ##  to the pointer 
