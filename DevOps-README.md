@@ -1,0 +1,6 @@
+# DEVOPS GUIDE  PUBLIC CLOUD
+
+
+
+# On-pre
+
