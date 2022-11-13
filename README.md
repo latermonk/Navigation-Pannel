@@ -51,6 +51,8 @@ https://github.com/ruanyf/weekly/issues/2188
 ##  free mag
 https://freemagazines.top/ 
 
+
+https://mgreader.com/   
 https://freemagazine.cc/   
 
 
