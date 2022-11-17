@@ -2,40 +2,6 @@ https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-promet
 https://idcos.github.io/cloudiac/0.9/product-deploy/container/
 
 
-
-#  DW
-
-##  to the pointer 
-https://www.dw.com/en/all-media-content/s-100826?type=18&programs=49962094   
-
-##  Docfilm
-https://www.dw.com/en/all-media-content/s-100826?type=18&programs=294010   
-
-
-
-
-
-
-
----
-
-
-https://www.dw.com/en/tv-programs/s-9103      
-
-https://www.dw.com/en/all-media-content/s-100826    
-
-
-
----
-
-
-
-
-
-
-
-
-
 #  Career
 
 https://www.v2ex.com/go/jobs
@@ -44,21 +10,6 @@ https://github.com/ruanyf/weekly/issues/2188
 
 
 ---
-
-
-
-# Magazine download
-##  free mag
-https://freemagazines.top/ 
-
-
-https://mgreader.com/   
-https://freemagazine.cc/   
-
-
-https://www.ebooksyard.com/   
-
-
 
 
 # key word
