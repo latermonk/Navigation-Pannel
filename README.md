@@ -1,5 +1,5 @@
-https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus
-https://idcos.github.io/cloudiac/0.9/product-deploy/container/
+https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus     
+https://idcos.github.io/cloudiac/0.9/product-deploy/container/     
 
 
 #  Career
