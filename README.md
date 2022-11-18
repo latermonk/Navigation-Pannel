@@ -1,7 +1,3 @@
-https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus     
-https://idcos.github.io/cloudiac/0.9/product-deploy/container/     
-
-
 #  Career
 
 https://www.v2ex.com/go/jobs
@@ -11,13 +7,6 @@ https://github.com/ruanyf/weekly/issues/2188
 
 ---
 
-
-# key word
-
-```
-documentary of Guantanamo Bay Prison
-
-```
 
 
 #  下一本读什么   
@@ -29,23 +18,6 @@ https://www.cnbc.com/techcheck/briefings/
 
 
 ---
-
-#  01. News
-
-# dw news
-
-
-
-#    made-in-germany  --   Your Business Magazine
-
-
-https://www.dw.com/en/made-in-germany/s-3066      
-
-https://www.dw.com/en/all-media-content/s-100826?type=18&programs=220077    
-
-
-
- 
 
 
 #  TV    Programs  
@@ -76,8 +48,6 @@ https://www.youtube.com/playlist?list=PL0tDb4jw6kPyN_Umwu7oZK44EFq-nvdwu
 
 
 ---
-
-
 
 
 #   xwzk
