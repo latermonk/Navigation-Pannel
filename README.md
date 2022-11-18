@@ -45,11 +45,11 @@ https://www.dw.com/en/all-media-content/s-100826?type=18&programs=220077
 
 
 
-## live TV 
-https://www.dw.com/en/live-tv/s-100825   
+ 
 
 
-##  Programs
+#  TV    Programs  
+##  DW
 https://www.dw.com/en/schedule-and-reception/s-4757
 
 https://www.youtube.com/watch?v=V9KZGs1MtP4    
@@ -62,9 +62,7 @@ https://www.cbsnews.com/latest/evening-news/full-episodes/
 
 ##  NBC nightly news
 
-https://www.youtube.com/results?search_query=NBC+Nightly+News+Broadcast+(Full)+
-
-
+https://www.youtube.com/results?search_query=NBC+Nightly+News+Broadcast+(Full)+   
 
 https://www.youtube.com/watch?v=98msucYd-S0&list=PL0tDb4jw6kPymVj5xNNha5PezudD5Qw9L
 
@@ -75,13 +73,6 @@ https://www.nbc.com/nbc-nightly-news/episodes
 
 
 https://www.youtube.com/playlist?list=PL0tDb4jw6kPyN_Umwu7oZK44EFq-nvdwu   
-
-
-
-##  ABC World news Tonight. 
-
-https://abc.com/shows/world-news-tonight     
-
 
 
 ---
