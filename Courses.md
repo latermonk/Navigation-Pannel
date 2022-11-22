@@ -5,6 +5,8 @@ https://www.freecoursesonline.me/
 
 https://gigacourse.com/?1    
 
+https://downloadr.in/   
+
 
 # tutsnode   
 
