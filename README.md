@@ -36,6 +36,8 @@ https://www.cnbc.com/techcheck/briefings/
 
 #  TV    Programs  
 
+##  cbs evening news   
+https://www.cbsnews.com/evening-news/    
 
 ##  NBC nightly news
 
