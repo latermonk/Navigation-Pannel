@@ -1,3 +1,17 @@
+
+#  lazyBook   
+https://lazybook.netlify.app/    
+
+
+
+
+
+
+
+---
+===
+
+
 #  Career
 
 https://www.v2ex.com/go/jobs
