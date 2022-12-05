@@ -1,5 +1,5 @@
-
-#  lazyBook   
+#  导航   
+##  lazyBook   
 https://lazybook.netlify.app/    
 
 
@@ -11,15 +11,17 @@ https://lazybook.netlify.app/
 ---
 ===
 
-##  读书        
+##  读书博客          
 ##  下一本读什么      
 https://readingoutpost.com/   
 
-#  看博客    
-# 00. techcheck    
-https://www.cnbc.com/techcheck/briefings/         
 
-#  看新闻【TV    Programs  】
+        
+
+#  看新闻【TV-Programs】    
+
+# techcheck    
+https://www.cnbc.com/techcheck/briefings/   
 
 ##  Cbs evening news   
 https://www.cbsnews.com/evening-news/    
