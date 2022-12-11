@@ -5,6 +5,7 @@ https://www.freecoursesonline.me/
 
 https://tutorialsplanet.net/?1    
 
+https://freecryptolearn.com/    
 
 
 https://gigacourse.com/?1    
