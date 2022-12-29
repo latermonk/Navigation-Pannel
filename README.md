@@ -1,6 +1,12 @@
 #  导航   
 ##  lazyBook   
-https://lazybook.netlify.app/    
+https://lazybook.netlify.app/     
+
+http://lazymovie.me/     
+
+
+
+
 
 
 ##  tube
