@@ -4,8 +4,8 @@ https://lazybook.netlify.app/
 
 http://lazymovie.me/     
 
-
-
+    
+https://www.youtube.com/playlist?list=PL6d10Xug8jOwrtp21josB5kxNEggaBu04    
 
 
 
