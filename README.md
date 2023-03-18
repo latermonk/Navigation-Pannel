@@ -32,7 +32,7 @@ https://www.cnbc.com/techcheck/briefings/
 ##  Cbs evening news   
 
 https://www.cbsnews.com/evening-news/full-episodes/    
-https://www.cbsnews.com/evening-news/    
+   
 
 ##  NBC nightly news
 
