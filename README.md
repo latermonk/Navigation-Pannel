@@ -26,8 +26,6 @@ https://readingoutpost.com/
 
 #  看新闻【TV-Programs】    
 
-# techcheck    
-https://www.cnbc.com/techcheck/briefings/   
 
 ##  Cbs evening news   
 
