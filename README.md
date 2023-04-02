@@ -2,9 +2,9 @@
 ##    KRM   
 https://github.com/askmeegs/build-a-platform-with-krm    
 
-https://kpt.dev/    
+https://kpt.dev/      
 
-
+https://github.com/GoogleContainerTools/kpt-config-sync     
 
 ##  lazyBook   
 https://lazybook.netlify.app/     
