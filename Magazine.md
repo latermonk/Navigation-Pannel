@@ -1,3 +1,7 @@
+#  PayWall    
+
+https://github.com/latermonk/Navigation-Pannel/blob/master/Paywalls.md     
+
 
 #  freeeMag
 https://freemagazines.top/
