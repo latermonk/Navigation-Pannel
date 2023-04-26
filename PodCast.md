@@ -1,5 +1,10 @@
 https://www.hbrtaiwan.com/video-and-podcast    
 
+
+https://www.hbrtaiwan.com/podcast     
+
+
+
 #  PodCast优选     
 
 1.請聽，哈佛管理學      
