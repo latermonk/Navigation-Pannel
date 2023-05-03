@@ -2,6 +2,12 @@
 
 https://github.com/latermonk/Navigation-Pannel/blob/master/Paywalls.md     
 
+# HBR   
+https://hbr.org/    
+https://www.hbrchina.org/    
+https://www.hbrtaiwan.com/     
+
+
 
 #  freeeMag
 https://freemagazines.top/
