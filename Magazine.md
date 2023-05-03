@@ -14,6 +14,10 @@ https://freemagazines.top/
 
 
 #  mgreader 
+
+https://mgreader.com/business     
+
+     
 https://mgreader.com     
 https://freemagazine.cc/    
 
