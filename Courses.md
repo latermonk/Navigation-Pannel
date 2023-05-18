@@ -5,6 +5,10 @@ https://academictorrents.com/
 
 https://www.freecoursesonline.me/    
 
+https://freecoursesite.com/      
+
+---   
+
 https://courseclub.me/       
 
 https://tutorialsplanet.net/?1    
