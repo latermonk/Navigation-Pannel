@@ -1,3 +1,24 @@
+#  Learn by doing
+
+## LAB   
+Ubuntu:   
+https://killercoda.com/playgrounds/scenario/ubuntu     
+k8s:   
+https://killercoda.com/playgrounds/scenario/kubernetes    
+
+## Other
+
+
+
+
+
+
+
+
+
+
+
+
 #  导航   
 ##    KRM   
 https://github.com/askmeegs/build-a-platform-with-krm    
