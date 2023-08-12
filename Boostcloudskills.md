@@ -12,8 +12,18 @@ https://twitter.com/qwiklabs
 https://cloud.google.com/innovators      
 
 
-# 
+
 
 ---
 # GCP only 
 https://google.qwiklabs.com/      
+
+
+---
+
+#  CloudOnAir
+
+## US
+https://cloudonair.withgoogle.com/      
+## TAIWAN
+https://cloudonair.withgoogle.com/taiwan      
