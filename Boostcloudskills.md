@@ -1,4 +1,5 @@
-#   https://www.cloudskillsboost.google/      
+#  GCP
+https://www.cloudskillsboost.google/      
 
 
 
@@ -27,3 +28,22 @@ https://google.qwiklabs.com/
 https://cloudonair.withgoogle.com/      
 ## TAIWAN
 https://cloudonair.withgoogle.com/taiwan      
+
+
+---
+# k8s
+```shell
+https://killercoda.com/
+```
+
+
+#  Learning Platform to Help You Master Cloud Native Craft
+```shell
+https://labs.iximiuz.com/
+```
+
+
+# OL
+```shell
+https://learning.oreilly.com/
+```
