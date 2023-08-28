@@ -39,5 +39,13 @@ https://hbr.org/podcasts
 ---
 
 #  Books
+##  HBR at 100
+原版：     
 <<HBR at 100: The Most Influential and Innovative Articles from Harvard Business Review's First Century>>     
 https://store.hbr.org/product/hbr-at-100-the-most-influential-and-innovative-articles-from-harvard-business-review-s-first-century/10557     
+
+台湾版：      
+https://www.hbrtaiwan.com/article/21338/hbr-at-100-is-worthy-to-collect         
+https://bookzone.cwgv.com.tw/books/BCB774         
+
+
