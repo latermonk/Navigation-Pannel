@@ -45,6 +45,7 @@ https://hbr.org/podcasts
 https://store.hbr.org/product/hbr-at-100-the-most-influential-and-innovative-articles-from-harvard-business-review-s-first-century/10557     
 
 台湾版：      
+哈佛商業評論最有影響力的30篇文章       
 https://www.hbrtaiwan.com/article/21338/hbr-at-100-is-worthy-to-collect         
 https://bookzone.cwgv.com.tw/books/BCB774         
 
