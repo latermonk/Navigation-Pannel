@@ -26,6 +26,10 @@ https://google.qwiklabs.com/
 
 ## US
 https://cloudonair.withgoogle.com/      
+
+https://cloudonair.withgoogle.com/gen-ai-bootcamp       
+
+
 ## TAIWAN
 https://cloudonair.withgoogle.com/taiwan      
 
