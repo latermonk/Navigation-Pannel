@@ -1,10 +1,10 @@
 # TV SHOWS
 
 ## Evening News
-* CBS
+* CBS     
 https://www.cbsnews.com/evening-news/full-episodes/
 
-* NBC
+* NBC     
 https://www.nbcnews.com/nightly-news-full-episodes
 
 
