@@ -1,3 +1,17 @@
+#  Check podcast rss
+
+https://www.castfeedvalidator.com/FindCast.php      
+
+
+
+
+
+
+
+
+
+---
+
 https://www.hbrtaiwan.com/video-and-podcast    
 
 
