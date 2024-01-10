@@ -1,2 +1,4 @@
 # EC
-https://www.economist.com/   
+https://www.economist.com/weeklyedition/archive          
+
+
