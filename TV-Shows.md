@@ -1,5 +1,12 @@
 #  TVB ->  News At 7:30 
-https://news.tvb.com/tc/programme/pearlnewsat730
+
+##  LOCAL
+https://news.tvb.com/tc/programme/pearlnewsat730         
+
+##  YOUTUBE
+https://www.youtube.com/playlist?list=PLKoXXVQa3yxBlMRa-1lq0gDur_RstqgLr          
+
+
 
 
 
