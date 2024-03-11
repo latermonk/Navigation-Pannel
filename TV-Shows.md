@@ -1,17 +1,14 @@
-#  TVB ->  News At 7:30 
+# TV SHOWS
 
-##  LOCAL
+##  TVB ->  News At 7:30 
+
+###  LOCAL
 https://news.tvb.com/tc/programme/pearlnewsat730         
 
-##  YOUTUBE
+###  YOUTUBE
 https://www.youtube.com/playlist?list=PLKoXXVQa3yxBlMRa-1lq0gDur_RstqgLr          
 
-
-
-
-
-
-# TV SHOWS
+---
 
 ## Evening News
 * CBS     
