@@ -8,3 +8,8 @@ multipass launch --name abc --bridged
 wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
 ```
 3. change ep on eireguard
+
+4. clean
+```
+multipass delete  abc && mp purge
+```
