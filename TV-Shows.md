@@ -9,9 +9,12 @@
   https://www.google.com/search?q=Wall+Street+Week&rlz=1C5CHFA_enCN1088CN1088&sourceid=chrome&ie=UTF-8   
   https://www.youtube.com/@markets
   
-  
-  
 
+## Washington Week with The Atlantic 
+https://www.youtube.com/@WashingtonWeekPBS    
+
+  
+---  
 
 
 
