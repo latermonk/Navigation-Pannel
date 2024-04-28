@@ -3,18 +3,17 @@
 
 
 ## News Weekly  
-* Wall Street Week
-  https://www.youtube.com/playlist?list=PLGaYlBJIOoa9ubuZWkdlPKN-XGVvWGlBe
+* Wall Street Week      
+  https://www.youtube.com/playlist?list=PLGaYlBJIOoa9ubuZWkdlPKN-XGVvWGlBe       
   
-  https://www.google.com/search?q=Wall+Street+Week&rlz=1C5CHFA_enCN1088CN1088&sourceid=chrome&ie=UTF-8   
-  https://www.youtube.com/@markets
+  https://www.google.com/search?q=Wall+Street+Week&rlz=1C5CHFA_enCN1088CN1088&sourceid=chrome&ie=UTF-8     
+  https://www.youtube.com/@markets        
   
+*  Washington Week with The Atlantic     
+https://www.youtube.com/@WashingtonWeekPBS       
 
-*  Washington Week with The Atlantic 
-https://www.youtube.com/@WashingtonWeekPBS    
 
-  
----  
+---
 
 
 
