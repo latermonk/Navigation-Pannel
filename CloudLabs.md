@@ -1,3 +1,19 @@
+# Lab & Cloud 
+
+# Lab
+
+## LAB   
+Ubuntu:   
+https://killercoda.com/playgrounds/scenario/ubuntu     
+k8s:   
+https://killercoda.com/playgrounds/scenario/kubernetes    
+
+
+
+
+
+
+
 #  GCP
 https://www.cloudskillsboost.google/      
 
