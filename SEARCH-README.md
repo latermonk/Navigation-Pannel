@@ -1,4 +1,6 @@
-#  Study
+#  Study   
+
+
 
 https://www.xuebapan.com/    
 
@@ -10,6 +12,11 @@ https://www.wanxuege.com/
 https://www.kdocs.cn/l/cigRmPZglKtc     
 
 
+---
+# MathGPT   
+https://playground.xes1v1.cn/MathGPT       
+
+---
 
 
 
